@@ -1,0 +1,17 @@
+# Files
+solutions/A.cpp
+solutions/B.cpp
+solutions/C.cpp
+solutions/D.cpp
+solutions/E.cpp
+solutions/F.cpp
+solutions/G.cpp
+solutions/H.cpp
+solutions/in.txt
+solutions/out.txt
+
+# Folders
+problems/
+
+# Executables
+*.out
